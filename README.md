@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DivyaThakur24
+- 👋 Hi, I’m Divya Thakur
 - 👀 I’m interested in Learning New Stuff!
 - 🌱 I’m currently learning Cloud Methodologies :)
 - 💞️ I’m looking to collaborate on Python Projects - Youtube / Udemy Collaboration
