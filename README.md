@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Divya Thakur
-- ![](https://komarev.com/ghpvc/?username=DivyaThakur24&style=for-the-badge)
+- ![](https://komarev.com/ghpvc/?username=DivyaThakur24&style=for-the-badge&base=1755)
 - 👀 I’m interested in Learning New Stuff!
 - 🌱 I’m currently learning Gen AI :)
 - 💞️ I’m looking to collaborate on Python Projects - Youtube / Udemy Collaboration
