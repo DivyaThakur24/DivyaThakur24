@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Divya Thakur
+- ![](https://komarev.com/ghpvc/?username=DivyaThakur24&style=for-the-badge)
 - 👀 I’m interested in Learning New Stuff!
-- 🌱 I’m currently learning Cloud Methodologies :)
+- 🌱 I’m currently learning Gen AI :)
 - 💞️ I’m looking to collaborate on Python Projects - Youtube / Udemy Collaboration
 - 📫 How to reach me ... ayvid.thakur@gmail.com ... @divya-thakurr on LinkedIn
 
